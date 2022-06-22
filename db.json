@@ -1,0 +1,58 @@
+{
+  "patients": [
+    {
+      "name": "Aswini Verma",
+      "username": "asddd",
+      "email": "as6dec@gmail.com",
+      "phone": "+917004789484",
+      "id": 1
+    },
+    {
+      "name": "Harshit Karn",
+      "username": "hk16",
+      "email": "hk@gmail.com",
+      "phone": "1234567890",
+      "id": 2
+    },
+    {
+      "name": "Aswini Verma",
+      "username": "asddd",
+      "email": "as6dec@gmail.com",
+      "phone": "+917004789484",
+      "password": "1212121212",
+      "id": 3
+    },
+    {
+      "name": "Aswini Verma",
+      "username": "hk16",
+      "email": "as6dec@gmail.com",
+      "phone": "+917004789484",
+      "password": "123456789",
+      "id": 4
+    }
+  ],
+  "doctors": [
+    {
+      "name": "Aswini Verma",
+      "type": "general",
+      "email": "asbsau@dhalskd",
+      "id": 1
+    },
+    {
+      "name": "Nayan Bajpai",
+      "type": "Cardiology",
+      "email": "n@gmail.com",
+      "phone": "1234567890",
+      "password": "dfklhligkjhl",
+      "id": 2
+    },
+    {
+      "name": "Shubham",
+      "type": "neurosurgein",
+      "email": "lashdl",
+      "phone": "34567898765",
+      "password": "sadasdasf",
+      "id": 3
+    }
+  ]
+}
